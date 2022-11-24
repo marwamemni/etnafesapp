@@ -38,3 +38,5 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+**/android/app/keystore.jks
+**/android/key.properties
